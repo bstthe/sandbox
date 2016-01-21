@@ -1,0 +1,4 @@
+This is the documentation on a small part of this sandbox project. As
+such is worth its weight in gold, at the very least!
+
+Okay, I realised I need to add at least one line of text. So here it is!
