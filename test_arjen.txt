@@ -1,0 +1,2 @@
+This is the documentation on a small part of this sandbox project. As
+such is worth its weight in gold, at the very least!
