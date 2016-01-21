@@ -3,6 +3,7 @@ implicit none
 integer :: N
 
 write (*,'(a)') 'Hello World!'
+write (*,'(a)') 'From Michel'
 
 write (*,'(a)') 'Please enter a number:'
 read (*,*) N
