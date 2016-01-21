@@ -2,9 +2,9 @@ program hello_world
 implicit none
 integer :: N
 
-write (*,'(a)') 'Jaap Says: Hello World!'
+write (*,'(a)') 'Hello World!'
 
-write (*,'(a)') 'Please enter a number <> zero:'
+write (*,'(a)') 'Please enter a number:'
 read (*,*) N
 write (*,'(a,i0,a,f25.16,a)') 'Did you know? 1/', N, ' = ', 1d0/dble(N), '.'
 
