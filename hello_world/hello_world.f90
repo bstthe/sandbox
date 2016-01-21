@@ -2,7 +2,7 @@ program hello_world
 implicit none
 integer :: N
 
-write (*,'(a)') 'Hello World!'
+write (*,'(a)') 'Jaap Zegt: Hello World!'
 
 write (*,'(a)') 'Please enter a number:'
 read (*,*) N
